@@ -17,8 +17,8 @@ Brain Tumor MRI Dataset from Kaggle.
 MobileNetV2 Transfer Learning
 
 ## Results
-- Training Accuracy: 89%
-- Validation Accuracy: 91%
+- Training Accuracy: 88%
+- Validation Accuracy: 89%
 ## Deployment
 
 This project is deployed using Gradio.
